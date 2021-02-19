@@ -1,2 +1,2 @@
 # django_tutorial
-Django tutorial init
+Primer intento de convertir la calcuratona a una versión web con django.
